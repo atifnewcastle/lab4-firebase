@@ -44,8 +44,11 @@ public class MainActivity extends AppCompatActivity {
         String databaseURL  = "https://lab4-firebase-3d3bd-default-rtdb.asia-southeast1.firebasedatabase.app/";
         //Create database reference
         databaseArtists = FirebaseDatabase.getInstance(databaseURL).getReference("artists");
-        //get values from XML
 
+        //kalau region us-cental1
+        //databaseArtists = FirebaseDatabase.getInstance().getReference("artists");
+
+        //get values from XML
         editTextName = (EditText) findViewById(R.id.editTextName);
         buttonAdd = (Button) findViewById(R.id.buttonAddArtist);
 
