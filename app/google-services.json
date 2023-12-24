@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "862437508708",
+    "project_id": "lab4-firebase-3d3bd",
+    "storage_bucket": "lab4-firebase-3d3bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862437508708:android:6f8d4464f01a9f5e574171",
+        "android_client_info": {
+          "package_name": "com.example.lab4_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJFNpJZIXZHMfDnI8gZv28zYEApaUcW8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
